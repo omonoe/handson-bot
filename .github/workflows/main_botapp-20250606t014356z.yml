@@ -55,4 +55,4 @@ jobs:
           app-name: 'botApp-20250606t014356z'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B16E324B7E24FE9ABF3B1162297D807 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED18BE47256C4D3F9152A6A1AD7C0CEB }}
